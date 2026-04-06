@@ -21,9 +21,9 @@ namespace multi {
     }
 }
 namespace divi {
-    double calc(int a, int b)
+    int calc(int a, int b)
     {
-        return (double)a / (double)b;
+        return a / b;
     }
 }
 
